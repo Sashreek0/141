@@ -1,0 +1,45 @@
+
+.heading{
+    font-size: 23px;
+    color: aquamarine;
+    width: 100%;
+
+}
+.heading h3{
+    display:inline;
+    font-size: 23px;
+    color: aquamarine;
+}
+.heading button{
+    float: right;
+    border:1px,double,gold;
+    
+
+}
+h4{
+    background-color: black;
+    color: gold;
+    line-height: 3;
+    margin: 0px;
+    font-size: 23px;
+
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+
+
+
+#start,#status{
+    font-size: 23px;
+}
+canvas{
+box-shadow: 5px 5px 5px aqua;
+border-radius: 77px;
+border: 10px double black;
+
+}
